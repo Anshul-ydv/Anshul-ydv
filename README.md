@@ -1,5 +1,5 @@
 # 💫 About Me:
-🌱 I’m currently learning Devops<br>💬 Ask me about DSA, Web-dev, ML-AI<br>⚡ My trading bot once made a profitable trade — and now thinks it’s smarter than me. We’re in therapy.
+🌱 I’m currently learning Devops<br>💬 Ask me about DSA, Web-dev, ML-AI<br>⚡ My trading bot and me, are in therapy.
 
 
 ## 🌐 Socials:
